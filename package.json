@@ -1,0 +1,13 @@
+{
+  "name": "interfaces",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts "
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "sqlite3": "^5.1.7"
+  }
+}
